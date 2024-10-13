@@ -39,7 +39,7 @@ const Home: React.FC = () => {
               <Briefcase size={48} className="text-purple-600" />
             </div>
             <h2 className="text-2xl font-semibold text-center mb-4">For Admin</h2>
-            <p className="text-center mb-6">Access helpful guides, tips, and information about internships.</p>
+            <p className="text-center mb-6">Manage internship listings, oversee student and employer activities</p>
             <Link to="/admin" className="block w-full bg-purple-600 text-white text-center py-2 rounded-md hover:bg-purple-700 transition duration-300">
               Admin Portal
             </Link>
