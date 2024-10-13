@@ -7,7 +7,6 @@
 - **App.tsx**: The main application component that sets up routing for the application.  
 - **index.css**: The main CSS file that includes Tailwind CSS directives.  
 - **main.tsx**: The entry point of the application where the React app is rendered.  
-- **public/**: Contains static files like the HTML template.  
 
 # Key Components
 
