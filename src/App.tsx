@@ -1,11 +1,10 @@
-import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import StudentPortal from './pages/StudentPortal';
 import EmployerPortal from './pages/EmployerPortal';
-import AdminPanel from './pages/AdminPanel';
+import AdminPanel from './pages/AdminPanel';  
 import Resources from './pages/Resources';
 import SuccessStories from './pages/SuccessStories';
 import FAQ from './pages/FAQ';

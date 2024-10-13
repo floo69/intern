@@ -32,14 +32,16 @@ const Home: React.FC = () => {
             </Link>
           </div>
 
+          
+
           <div className="bg-white p-6 rounded-lg shadow-md">
             <div className="flex items-center justify-center mb-4">
               <Briefcase size={48} className="text-purple-600" />
             </div>
-            <h2 className="text-2xl font-semibold text-center mb-4">Resources</h2>
+            <h2 className="text-2xl font-semibold text-center mb-4">For Admin</h2>
             <p className="text-center mb-6">Access helpful guides, tips, and information about internships.</p>
-            <Link to="/resources" className="block w-full bg-purple-600 text-white text-center py-2 rounded-md hover:bg-purple-700 transition duration-300">
-              View Resources
+            <Link to="/admin" className="block w-full bg-purple-600 text-white text-center py-2 rounded-md hover:bg-purple-700 transition duration-300">
+              Admin Portal
             </Link>
           </div>
         </div>
