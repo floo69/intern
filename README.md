@@ -1,7 +1,7 @@
 # Project Structure
 
-**intern/**: The root directory of the project.  
-**src/**: Contains all the source code for the application.  
+- **intern/**: The root directory of the project.  
+- **src/**: Contains all the source code for the application.  
 - **components/**: Contains reusable components like Header and Footer.  
 - **pages/**: Contains different pages of the application, such as Home, StudentPortal, EmployerPortal, AdminPanel, FAQ, Resources, and SuccessStories.  
 - **App.tsx**: The main application component that sets up routing for the application.  
