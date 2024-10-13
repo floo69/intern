@@ -7,10 +7,7 @@
 - **App.tsx**: The main application component that sets up routing for the application.  
 - **index.css**: The main CSS file that includes Tailwind CSS directives.  
 - **main.tsx**: The entry point of the application where the React app is rendered.  
-**public/**: Contains static files like the HTML template.  
-**package.json**: Lists dependencies, scripts, and metadata for the project.  
-**vite.config.ts**: Configuration file for Vite, the build tool used in the project.  
-**tsconfig.json**: TypeScript configuration file.  
+- **public/**: Contains static files like the HTML template.  
 
 # Key Components
 
